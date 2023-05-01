@@ -1,0 +1,64 @@
+{
+    "Trend": [
+     {
+       "id": 1,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146065-OVPsmFwRUz7t.jpg",
+       "imgBanner" : "https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2021/08/12215329/Mashle-Magic-Muscles.jpg",
+       "title": "Mashle",
+       "genre" : "Action,Comedy,Fantasy",
+       "rating" : "4.5/5.0",
+       "release" : "2023",
+       "Deskripsi": "This is a world of magic. This is a world in which magic is casually used by everyone. In a deep, dark forest in this world of magic, there is a boy who is singlemindedly working out. His name is Mash Burnedead, and he has a secret. He can’t use magic. All he wanted was to live a quiet life with his family, but people suddenly start trying to kill him one day and he somehow finds himself enrolled in Magic School. "
+     },
+     {
+       "id": 2,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
+       "imgBanner" : "https://gamerwk.sgp1.cdn.digitaloceanspaces.com/2023/03/Oshi-no-Ko-ANIME.jpg",
+       "title": "Oshi no Ko",
+       "genre" : "Drama, Mystery, Psychological",
+       "rating" : "4.5/5.0",
+       "release" : "2023",
+       "Deskripsi": "When a pregnant young starlet appears in Gorou Amemiya’s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino’s child so she can make a scandal-free return to the stage."
+     },
+     {
+       "id": 3,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155783-X23WQwPmI9Sh.jpg",
+       "imgBanner" : "https://cdn.aniblogtracker.com/live/20230402/1680447610.56600.89568.jpg",
+       "title": "Tengoku Daimakyou",
+       "genre" : "Adventure, Mystery, Sci-fi",
+       "rating" : "4.5/5.0",
+       "release" : "2023",
+       "Deskripsi": "In the year 2024, the world has collapsed. Grotesque monsters lurk amongst the ruins of Japan, while remaining people scrape together what they can to survive. Kiruko, an odd-job girl in Nakano, accepts a mysterious woman's dying wish to take a boy named Maru to a place called Heaven."
+     },
+     {
+       "id": 4,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
+       "imgBanner" : "https://i.ytimg.com/vi/HXgQMWqBhZs/maxresdefault.jpg",
+       "title": "Dr. Stone: New World",
+       "genre" : "Action,Adventure,Comedy,Fantasy",
+       "rating" : "4.5/5.0",
+       "release" : "2023",
+       "Deskripsi": "The third season of Dr. STONE. Senku and the Kingdom of Science sail to new lands to uncover more scientific secrets!"
+     },
+     {
+       "id": 5,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154412-bEMQkJWOStDR.jpg",
+       "imgBanner" : "https://static.zerochan.net/Megami.no.Caf%C3%A9.Terrace.full.3925115.jpg",
+       "title": "Megami no Cafe Terrace",
+       "genre" : "Comedy, Ecchi, Romance",
+       "rating" : "4.1/5.0",
+       "release" : "2023",
+       "Deskripsi": "After inheriting his late grandmother’s failing café, Hayato sees it as a bother and plans to sell it for a quick buck. Until he discovers five beautiful girls staying there! When they beg him to keep the café open, Hayato reluctantly gives in. Can he manage the seaside shop while learning to live with these unruly women?"
+     },
+     {
+       "id": 6,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136430-f8Iza5GEynRW.jpg",
+       "imgBanner" : "https://rakcer.id/wp-content/uploads/2023/04/Tokoh-Thorfinn-dalam-Anime-Vinland-Saga.jpg",
+       "title": "Vinland Saga Season 2",
+       "genre" : "Action,Adventure,Drama",
+       "rating" : "4.8/5.0",
+       "release" : "Airing",
+       "Deskripsi": "The second season of Vinland Saga. When Thorfinn loses it all, he must find his new purpose for living in a strange new land."
+     }
+   ]
+ }
